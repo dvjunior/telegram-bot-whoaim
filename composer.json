@@ -1,0 +1,15 @@
+{	
+	"name":"dvjunior/telegram-bot-whoami",
+	"description":"An example using telegram bot api and irazasyed/telegram-bot-sdk, a bot for describe your informations.",
+	"version":"1.0",
+	"license": "MIT",
+    "require": {
+    	"php":">=5.5.",
+        "irazasyed/telegram-bot-sdk":"2.0"
+    },
+    "autoload": {
+    "psr-4": {
+        "Commands\\": "App/Commands/"
+    }
+}
+}
