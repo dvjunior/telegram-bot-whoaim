@@ -1,8 +1,8 @@
 <?php
 
 /**
-* An example of bot without webhook
-* In this case you're catching the updates, You're an active client, You are the consumer.
+* An example of bot using webhook
+* In this case telegram API sends updates for you
 *
 */
 

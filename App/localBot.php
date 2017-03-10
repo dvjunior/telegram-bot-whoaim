@@ -26,6 +26,3 @@ $telegram->addCommands([StartCommand::class,
 #$username = $response->getUsername();
 
 $telegram->commandsHandler();
-
-#$response = $telegram->getWebhookUpdates();
-#$telegram->processCommand($response);
